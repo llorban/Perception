@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:079FA283-4FE3-4599-BD7A-47CC619E9F5E</id>
  <title>Page list Atom feed</title>
- <updated>2013-08-09T12:18:16-04:00</updated>
+ <updated>2013-08-09T12:43:49-04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">PSY 3108A</title>
   <in-navbar xmlns="urn:iweb:">4CD786DF-44DD-478F-88B2-A55E33731A0B</in-navbar>
   <link rel="alternate" href="PSY_3108A.html"/>
-  <updated>2013-08-09T12:18:16.001-04:00</updated>
+  <updated>2013-08-09T12:43:49.001-04:00</updated>
   <content>PSY 3108A</content>
  </entry>
 </feed>
